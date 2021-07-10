@@ -1,0 +1,13 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prep": "cd frontend && yarn install && cd .. && cd backend && npm install",
+    "start-web": "cd frontend && yarn start",
+    "start-backend": "cd backend && npm run start"
+  },
+  "author": "",
+  "license": "ISC"
+}
