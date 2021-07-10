@@ -2,9 +2,9 @@
 
 ## How to test this application?
 
-1. npm run prep - To install all dependencies;
-2. npm run start-web - To run frontend of the application;
-3. npm run start-backend - To run backend of the application;
+1. `npm run prep` - To install all dependencies;
+2. `npm run start-web` - To run frontend of the application;
+3. `npm run start-backend` - To run backend of the application;
 
 I used MongoDB cloud to make testing on other devices simple. I have created three models:
 
